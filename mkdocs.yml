@@ -2,4 +2,3 @@ site_name: RSK's test doc
 pages:
     - Home: index.md
     - Training materials: README.md
-theme: readthedocs
