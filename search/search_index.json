@@ -1,0 +1,59 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/README/", 
+            "text": "Training program description:\n\n\nThe training team at the Harvard Chan Bioinformatics Core provides bioinformatics training through both shorter workshops and longer in-depth courses. Our current workshops and courses are designed to help biologists become comfortable with using tools to analyse high-throughput data. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills.\n\n\nNo prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.\n\n\nWorkshops\n\n\nIntroduction to Next-Generation Sequencing (NGS) analysis series:\n\n\nThe goal of these workshops (2-3 days) are to enable researchers to design their NGS studies appropriately and perform preliminary data analyses.\n\n\n\n\n\n\n\n\nTraining topic and link to lessons\n\n\nPrerequisites\n\n\nWorkshop Duration\n\n\n\n\n\n\n\n\n\n\nR and ggplot2\n\n\nNone\n\n\n2 days\n\n\n\n\n\n\nRNA-seq data analysis using High-Performance Computing\n\n\nNone\n\n\n2 - 3 days\n\n\n\n\n\n\nR and Differential Gene Expression (DGE) analysis\n\n\nNone\n\n\n3 days\n\n\n\n\n\n\nDifferential Gene Expression (DGE) analysis\n\n\nR and ggplot2\n\n\n1.5 days\n\n\n\n\n\n\nChIP-seq using High-Performance Computing\n\n\nNone\n\n\n3 days\n\n\n\n\n\n\nIdentifying variants in genome/exome sequencing data\n\n\nNone\n\n\nIn development\n\n\n\n\n\n\n\n\nCurrent topics in bioinformatics series:\n\n\nThese short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please \nclick here\n.\n\n\n\n\n\n\n\n\nTraining topic and link to lessons\n\n\nPrerequisites\n\n\nDate \n Location\n\n\n\n\n\n\n\n\n\n\nIntroduction to R \n Visualizations with ggplot2\n\n\nNone\n\n\nTBD\n\n\n\n\n\n\nPlotting and visualization in R using ggplot2\n\n\nIntro to R\n\n\nTBD\n\n\n\n\n\n\nIntroduction to shell/bash\n\n\nNone\n\n\nTBD\n\n\n\n\n\n\nIntermediate shell/bash\n\n\nIntro to shell\n\n\n02/23/2018 in Kresge G2 (HSPH)\n\n\n\n\n\n\nAccessing public data for genomics\n\n\nIntro to shell\n\n\n04/27/2018 in FXB G12 (HSPH)\n\n\n\n\n\n\nVersion control using Git and Github\n\n\nIntro to shell\n\n\n05/25/2018 in Kresge 502 (HSPH)\n\n\n\n\n\n\nExploring genomic variants using GEMINI \n(In development)\n\n\nIntro to shell\n\n\nTBD\n\n\n\n\n\n\nIntroduction to tidyverse R packages for data visualization \n(In development)\n\n\nIntro to R\n\n\nTBD\n\n\n\n\n\n\n\n\nIn-Depth Next Generation Sequencing Analysis Course\n\n\nThis intensive course\n runs for between \n8 to 12 days\n and is aimed at bench biologists interested in learning how to \nindependently\n perform NGS data analyses using \nbest practices\n. Topics include:\n\n\n\n\nHigh-performance computing\n\n\nBest practice workflows for NGS data analysis (RNA-seq, ChIP-seq, Variant calling)\n\n\nR for statistical analysis and data visualization\n\n\nFunctional analysis with gene lists\n\n\nAdditional skils and tools for better reproducibility like reports with RMarkdown, version control with Git/Github, etc.\n\n\n\n\nContact us:\n\n\nEmail:\n \nhbctraining@hsph.harvard.edu\n\n\nWebpage:\n \nhttp://bioinformatics.sph.harvard.edu\n\n\nTwitter:\n \n@bioinfocore", 
+            "title": "Training materials"
+        }, 
+        {
+            "location": "/README/#training-program-description", 
+            "text": "The training team at the Harvard Chan Bioinformatics Core provides bioinformatics training through both shorter workshops and longer in-depth courses. Our current workshops and courses are designed to help biologists become comfortable with using tools to analyse high-throughput data. We are slowly beginning to expand this repertoire to include training for researchers with more advanced bioinformatics skills.  No prior NGS or command line expertise is required for our workshops or courses unless explicitly stated.", 
+            "title": "Training program description:"
+        }, 
+        {
+            "location": "/README/#workshops", 
+            "text": "", 
+            "title": "Workshops"
+        }, 
+        {
+            "location": "/README/#introduction-to-next-generation-sequencing-ngs-analysis-series", 
+            "text": "The goal of these workshops (2-3 days) are to enable researchers to design their NGS studies appropriately and perform preliminary data analyses.     Training topic and link to lessons  Prerequisites  Workshop Duration      R and ggplot2  None  2 days    RNA-seq data analysis using High-Performance Computing  None  2 - 3 days    R and Differential Gene Expression (DGE) analysis  None  3 days    Differential Gene Expression (DGE) analysis  R and ggplot2  1.5 days    ChIP-seq using High-Performance Computing  None  3 days    Identifying variants in genome/exome sequencing data  None  In development", 
+            "title": "Introduction to Next-Generation Sequencing (NGS) analysis series:"
+        }, 
+        {
+            "location": "/README/#current-topics-in-bioinformatics-series", 
+            "text": "These short workshops (half-day or less) are designed to allow researchers, who have some familiarity with R or bash, to learn new tools and methods. Only a subset of the short workshops topics are listed and linked below, for the full list please  click here .     Training topic and link to lessons  Prerequisites  Date   Location      Introduction to R   Visualizations with ggplot2  None  TBD    Plotting and visualization in R using ggplot2  Intro to R  TBD    Introduction to shell/bash  None  TBD    Intermediate shell/bash  Intro to shell  02/23/2018 in Kresge G2 (HSPH)    Accessing public data for genomics  Intro to shell  04/27/2018 in FXB G12 (HSPH)    Version control using Git and Github  Intro to shell  05/25/2018 in Kresge 502 (HSPH)    Exploring genomic variants using GEMINI  (In development)  Intro to shell  TBD    Introduction to tidyverse R packages for data visualization  (In development)  Intro to R  TBD", 
+            "title": "Current topics in bioinformatics series:"
+        }, 
+        {
+            "location": "/README/#in-depth-next-generation-sequencing-analysis-course", 
+            "text": "This intensive course  runs for between  8 to 12 days  and is aimed at bench biologists interested in learning how to  independently  perform NGS data analyses using  best practices . Topics include:   High-performance computing  Best practice workflows for NGS data analysis (RNA-seq, ChIP-seq, Variant calling)  R for statistical analysis and data visualization  Functional analysis with gene lists  Additional skils and tools for better reproducibility like reports with RMarkdown, version control with Git/Github, etc.", 
+            "title": "In-Depth Next Generation Sequencing Analysis Course"
+        }, 
+        {
+            "location": "/README/#contact-us", 
+            "text": "Email:   hbctraining@hsph.harvard.edu  Webpage:   http://bioinformatics.sph.harvard.edu  Twitter:   @bioinfocore", 
+            "title": "Contact us:"
+        }
+    ]
+}
