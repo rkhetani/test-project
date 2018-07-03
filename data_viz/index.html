@@ -489,7 +489,7 @@ library(pheatmap)
 plotCounts(dds, gene=&quot;MOV10&quot;, intgroup=&quot;sampletype&quot;) 
 </code></pre>
 
-<p><img alt="topgene" src="../../img/topgen_plot.png" /></p>
+<p><img src="../img/topgen_plot.png" width="500"></p>
 <p><strong>This function only allows for plotting the counts of a single gene at a time.</strong> </p>
 <h4 id="using-ggplot2-to-plot-expression-of-a-single-gene"><strong>Using ggplot2 to plot expression of a single gene</strong></h4>
 <p>If you wish to change the appearance of this plot, we can save the output of <code>plotCounts()</code> to a variable specifying the <code>returnData=TRUE</code> argument, then use <code>ggplot()</code>:</p>
@@ -582,7 +582,7 @@ annotation= annotation, border_color=NA, fontsize = 10, scale=&quot;row&quot;,
      fontsize_row = 10, height=20)
 </code></pre>
 
-<p><img alt="sigOE_heatmap" src="../../img/sigOE_heatmap.png" />       </p>
+<p><img src="../img/sigOE_heatmap.png" width="500"></p>
 <blockquote>
 <p><em>NOTE:</em> There are several additional arguments we have included in the function for aesthetics. One important one is <code>scale="row"</code>, in which Z-scores are plotted, rather than the actual normalized count value. Z-scores are computed on a gene-by-gene basis by subtracting the mean and then dividing by the standard deviation. The Z-scores are computed <strong>after the clustering</strong>, so that it only affects the graphical aesthetics and the color visualization is improved.</p>
 </blockquote>
