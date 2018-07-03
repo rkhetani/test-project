@@ -92,7 +92,8 @@ To pick out a specific gene of interest to plot, for example Mov10, we can use t
 # Plot expression for single gene
 plotCounts(dds, gene="MOV10", intgroup="sampletype") 
 ```
-![topgene](../img/topgen_plot.png)
+
+<img src="../img/topgen_plot.png" width="500">
 
 **This function only allows for plotting the counts of a single gene at a time.** 
 
@@ -212,7 +213,7 @@ annotation= annotation, border_color=NA, fontsize = 10, scale="row",
      fontsize_row = 10, height=20)
 ```
          
-![sigOE_heatmap](../img/sigOE_heatmap.png)       
+<img src="../img/sigOE_heatmap.png" width="500">
 
 > *NOTE:* There are several additional arguments we have included in the function for aesthetics. One important one is `scale="row"`, in which Z-scores are plotted, rather than the actual normalized count value. Z-scores are computed on a gene-by-gene basis by subtracting the mean and then dividing by the standard deviation. The Z-scores are computed **after the clustering**, so that it only affects the graphical aesthetics and the color visualization is improved.
 
